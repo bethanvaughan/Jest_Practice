@@ -1,0 +1,15 @@
+{
+  "name": "sunday_jest",
+  "version": "1.0.0",
+  "description": "second tests yaya",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "Bethan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
